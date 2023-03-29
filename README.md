@@ -1,6 +1,7 @@
 # FCC-javascript-projects
-JavaScript Algorithms and Data Structures Projects
-all of the Freecodecamp JavaScript Algorithms and Data Structures Projects including:
+
+
+All of the Freecodecamp JavaScript Algorithms and Data Structures Projects including:
 
 -Palindrome Checker:
 
